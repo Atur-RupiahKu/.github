@@ -13,6 +13,8 @@ Fitur ini bertujuan untuk membantu pengguna dalam merencanakan keuangan dengan l
 
 Repo: [Explore repo untuk fitur ini](https://github.com/Atur-RupiahKu/Forecasting-Keuangan)
 
+Demo: [Dashboard Untuk Fitur 1](https://dashboard-otpe2yfbbiaam82dvkr2gw.streamlit.app/)
+
 ### 2. Loan Risk
 Fitur ini menghitung risiko gagal bayar pinjaman berdasarkan beberapa variabel seperti gaji, jumlah pinjaman, dan tingkat bunga. Kami menggunakan model **Light Gradient Boosting Machine (LGBM)** yang terbukti memberikan akurasi terbaik dengan **F1 Test Score sebesar 92%**. Data yang digunakan telah di-scale dan disesuaikan dengan kondisi keuangan di Indonesia.
 
@@ -21,6 +23,8 @@ Fitur ini bertujuan membantu pengguna dalam memahami kemampuan mereka membayar p
 Dataset: [Link Kaggle Dataset](https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval?select=Loan.csv) 
 
 Repo: [Explore repo untuk fitur ini](https://github.com/Atur-RupiahKu/Rekomendasi-Resiko-Pinjaman)
+
+Demo: [Dashboard Untuk Fitur 2](https://dashboard-eoctwdweskirpnpxvz38cl.streamlit.app/)
 
 ### 3. Video Edukasi dan Platform Konsultasi
 Fitur ini menyediakan berbagai video edukasi keuangan yang interaktif dan mudah dipahami, serta platform marketplace untuk menyewa konsultan keuangan. Dengan adanya fitur ini, pengguna bisa belajar tentang pengelolaan keuangan secara mandiri, sekaligus mendapatkan bantuan profesional jika diperlukan.
