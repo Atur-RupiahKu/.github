@@ -19,6 +19,7 @@ Fitur ini menghitung risiko gagal bayar pinjaman berdasarkan beberapa variabel s
 Fitur ini bertujuan membantu pengguna dalam memahami kemampuan mereka membayar pinjaman, sehingga dapat mengurangi risiko gagal bayar yang dapat berdampak negatif pada stabilitas keuangan pribadi dan nasional.
 
 Dataset: [Link Kaggle Dataset](https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval?select=Loan.csv) 
+
 Repo: [Explore repo untuk fitur ini](https://github.com/AturRupiahKu/rekomendasi-resiko-pinjaman)
 
 ### 3. Video Edukasi dan Platform Konsultasi
