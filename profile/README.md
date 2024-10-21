@@ -39,8 +39,8 @@ Aplikasi **Atur RupiahKu** tidak hanya membantu masyarakat Indonesia dalam menge
 
 Berikut adalah tampilan UI dari aplikasi Atur RupiahKu. Anda dapat melihatnya secara lengkap di PDF berikut:
 
-[Tampilan UI](https://github.com/Atur-RupiahKu/Atur-RupiahKu/blob/main/Atur%20RupiahKu%20Mockup.pdf)
-<embed src="https://github.com/Atur-RupiahKu/Atur-RupiahKu/blob/main/Atur%20RupiahKu%20Mockup.pdf" width="800px" height="600px" />
+[Tampilan UI](https://github.com/Atur-RupiahKu/.github/blob/main/Mockup%20Atur%20RupiahKu.pdf)
+<embed src="https://github.com/Atur-RupiahKu/.github/blob/main/Mockup%20Atur%20RupiahKu.pdf" width="800px" height="600px" />
 
 ## Tentang Kami
 Tim **Atur RupiahKu** terdiri dari tiga mahasiswa Institut Teknologi Sepuluh Nopember (ITS) Surabaya sebagai berikut.
