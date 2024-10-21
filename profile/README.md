@@ -11,7 +11,7 @@ Fitur ini membantu pengguna memprediksi kondisi keuangan mereka untuk beberapa h
 
 Fitur ini bertujuan untuk membantu pengguna dalam merencanakan keuangan dengan lebih baik, menghindari defisit, dan mengoptimalkan penggunaan pendapatan mereka.
 
-Repo: [Explore repo untuk fitur ini](https://github.com/AturRupiahKu/forecasting-keuangan)
+Repo: [Explore repo untuk fitur ini](https://github.com/Atur-RupiahKu/Forecasting-Keuangan)
 
 ### 2. Loan Risk
 Fitur ini menghitung risiko gagal bayar pinjaman berdasarkan beberapa variabel seperti gaji, jumlah pinjaman, dan tingkat bunga. Kami menggunakan model **Light Gradient Boosting Machine (LGBM)** yang terbukti memberikan akurasi terbaik dengan **F1 Test Score sebesar 92%**. Data yang digunakan telah di-scale dan disesuaikan dengan kondisi keuangan di Indonesia.
@@ -20,7 +20,7 @@ Fitur ini bertujuan membantu pengguna dalam memahami kemampuan mereka membayar p
 
 Dataset: [Link Kaggle Dataset](https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval?select=Loan.csv) 
 
-Repo: [Explore repo untuk fitur ini](https://github.com/AturRupiahKu/rekomendasi-resiko-pinjaman)
+Repo: [Explore repo untuk fitur ini](https://github.com/Atur-RupiahKu/Rekomendasi-Resiko-Pinjaman)
 
 ### 3. Video Edukasi dan Platform Konsultasi
 Fitur ini menyediakan berbagai video edukasi keuangan yang interaktif dan mudah dipahami, serta platform marketplace untuk menyewa konsultan keuangan. Dengan adanya fitur ini, pengguna bisa belajar tentang pengelolaan keuangan secara mandiri, sekaligus mendapatkan bantuan profesional jika diperlukan.
@@ -52,8 +52,8 @@ Tim **Atur RupiahKu** terdiri dari tiga mahasiswa Institut Teknologi Sepuluh Nop
 Kami berkomitmen untuk menciptakan solusi berbasis teknologi yang membantu pengguna dalam mencapai kesejahteraan finansial.
 
 Jelajahi repositori kami untuk informasi lebih lanjut:
-- [Forecasting Kondisi Keuangan](https://github.com/AturRupiahKu/forecasting-keuangan)
-- [Rekomendasi Risiko Pinjaman](https://github.com/AturRupiahKu/rekomendasi-resiko-pinjaman)
+- [Forecasting Kondisi Keuangan](https://github.com/Atur-RupiahKu/Forecasting-Keuangan)
+- [Rekomendasi Risiko Pinjaman](https://github.com/Atur-RupiahKu/Rekomendasi-Resiko-Pinjaman)
 
 ## Kontak
 Email: fiqbalh12@gmail.com
