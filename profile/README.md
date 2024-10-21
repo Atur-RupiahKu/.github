@@ -6,8 +6,8 @@
 
 ### 1. Financial Forecast
 Fitur ini membantu pengguna memprediksi kondisi keuangan mereka untuk beberapa hari ke depan berdasarkan data historis pendapatan dan pengeluaran. Kami menggunakan model **XGBoost** untuk melakukan forecasting keuangan pada dua kasus utama:
-- **Kasus Ojek Online (Penghasilan Tidak Tetap):** Dengan memanfaatkan data bangkitan, model **XGBoost** menghasilkan error sebesar **1,7k**.
-- **Kasus Mahasiswa (Penghasilan Bulanan):** Dengan model yang sama, error prediksi untuk mahasiswa yang mendapatkan penghasilan bulanan dari orang tua mencapai **69k**.
+- **Kasus Penghasilan Tidak Tetap :** Dengan memanfaatkan data bangkitan, model **XGBoost** menghasilkan error sebesar **1,7k**. 
+- **Kasus Penghasilan Bulanan:** Dengan model yang sama, error prediksi untuk mahasiswa yang mendapatkan penghasilan bulanan dari orang tua mencapai **69k**. [Hasil pembentukan model untuk skema penghasilan bulanan]
 
 Fitur ini bertujuan untuk membantu pengguna dalam merencanakan keuangan dengan lebih baik, menghindari defisit, dan mengoptimalkan penggunaan pendapatan mereka.
 
