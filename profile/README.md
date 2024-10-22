@@ -6,10 +6,9 @@
 
 ### 1. Financial Forecast
 Fitur ini membantu pengguna memprediksi kondisi keuangan mereka untuk beberapa hari ke depan berdasarkan data historis pendapatan dan pengeluaran. Kami menggunakan model **XGBoost** untuk melakukan forecasting keuangan pada dua kasus utama:
-- **Kasus Penghasilan Tidak Tetap :** Dengan memanfaatkan data bangkitan, model **XGBoost** menghasilkan error sebesar **1,7k**. 
-- **Kasus Penghasilan Bulanan:** Dengan model yang sama, error prediksi untuk mahasiswa yang mendapatkan penghasilan bulanan dari orang tua mencapai **69k**. [Hasil pembentukan model untuk skema penghasilan bulanan]
-
-Fitur ini bertujuan untuk membantu pengguna dalam merencanakan keuangan dengan lebih baik, menghindari defisit, dan mengoptimalkan penggunaan pendapatan mereka.
+- **Kasus Penghasilan Tidak Tetap :** Dengan memanfaatkan data bangkitan, model **XGBoost** menghasilkan error sebesar **1,7k**.[Notebook hasil pemodelan kasus penghasilan tidak tetap](https://github.com/Atur-RupiahKu/Forecasting-Keuangan/blob/main/Notebook%20Penghasilan%20Tidak%20Tetap.ipynb) 
+- **Kasus Penghasilan Tetap:** Dengan model yang sama, error prediksi untuk mahasiswa yang mendapatkan penghasilan bulanan dari orang tua mencapai **69k**.[Notebook hasil pemodelan kasus penghasilan tetap](https://github.com/Atur-RupiahKu/Forecasting-Keuangan/blob/main/Notebook%20Penghasilan%20Tetap.ipynb)
+Fitur ini bertujuan untuk membantu pengguna dalam merencanakan keuangan dengan lebih baik, menghindari defisit, dan mengoptimalkan penggunaan pendapatan mereka. 
 
 Repo: [Explore repo untuk fitur ini](https://github.com/Atur-RupiahKu/Forecasting-Keuangan)
 
